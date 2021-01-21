@@ -2,17 +2,11 @@
    Reset
    ========================================================================== */
 
-/**
- * Remove anchor text-decoration
- */ 
+ 
 
 a {
 	text-decoration: none;
 }
-
-/**
- * Remove list-style
- */ 
 
 ol, ul {
 	list-style: none;
